@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsAzureProject1">
+</Property><Property Name="Solution File" Value="\\indigofs\commonshare\kirthik\WindowsAzureProject1\WindowsAzureProject1.sln">
+</Property><Property Name="Date" Value="Tuesday, September 18, 2012">
+</Property><Property Name="Time" Value="12:50 PM">
+</Property></Properties><Event ErrorLevel="0" Project="\\indigofs\commonshare\kirthik\WindowsAzureProject1\WindowsAzureProject1\WindowsAzureProject1.ccproj" Source="WindowsAzureProject1\ServiceDefinition.csdef" Description="The file is read-only, attempting to check-out if under source control">
+</Event><Event ErrorLevel="0" Project="MvcWebRole1" Source="MvcWebRole1\MvcWebRole1.csproj" Description="The project file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="MvcWebRole1" Source="MvcWebRole1\MvcWebRole1.csproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="WindowsAzureProject1.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="WindowsAzureProject1.sln" Description="No Conversion Required">
+</Event></UpgradeLog>

@@ -1,0 +1,1 @@
+D:\KuduTesting\TFSApps\Kuduqa_Madhurig\CloudappProj\WindowsAzureProject1\WindowsAzureProject1\bin\Debug\ServiceConfiguration.cscfg

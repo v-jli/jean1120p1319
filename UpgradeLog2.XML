@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WindowsAzureProject1">
+</Property><Property Name="Solution File" Value="\\indigofs\commonshare\kirthik\WindowsAzureProject1\WindowsAzureProject1.sln">
+</Property><Property Name="Date" Value="Tuesday, September 18, 2012">
+</Property><Property Name="Time" Value="12:52:02 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="\\indigofs\commonshare\kirthik\WindowsAzureProject1\WindowsAzureProject1\WindowsAzureProject1.ccproj" Source="WindowsAzureProject1\ServiceDefinition.csdef" Description="The file is read-only, attempting to check-out if under source control">
+</Event></UpgradeLog>
